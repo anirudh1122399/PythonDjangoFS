@@ -1,0 +1,49 @@
+h1 {
+	font-family: 'Permanent Marker', cursive;
+	text-align: center;
+}
+
+.art {
+	text-align: center;
+	margin: auto;
+	width: 50%;
+	height: 300px;
+}
+
+#one,#two,#three,#four,#five {
+	width: 10%;
+}
+
+#one {
+	/*height: 300px;
+	width: 8%;
+	padding-right: 2.5%;*/
+	background-color: #F46038;
+}
+
+#two {
+	/*height: 300px;
+	width: 8%;
+	padding-right: 2.5%;*/
+	background-color: #2F294F;
+}
+
+#three {
+	/*height: 300px;
+	width: 8%;
+	padding-right: 2.5%;*/
+	background-color: #1B998B;
+}
+
+#four {
+	/*height: 300px;
+	width: 8%;
+	padding-right: 2.5%;*/
+	background-color: #E71D35;
+}
+
+#five {
+	/*height: 300px;
+	width: 8%;*/
+	background-color: #E8D44D;
+}
